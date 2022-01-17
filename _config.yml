@@ -41,10 +41,10 @@ social-network-links:
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
   linkedin: lindsey-barner
   ORCID: 0000-0002-9156-0024
-  google-scholar: https://scholar.google.com/citations?user=CgWX51oAAAAJ&hl=en&oi=ao
+  google-scholar: citations?user=CgWX51oAAAAJ&hl=en&oi=ao
   twitter: LindseyBarner
   facebook: lindsey.barner
-  youtube: https://www.youtube.com/channel/UCLsWehHdBzqUdkYhoxdOKBQ
+  youtube: channel/UCLsWehHdBzqUdkYhoxdOKBQ
 #  medium: yourname
 #  reddit: yourname
 #  xing: yourname
@@ -64,14 +64,14 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: This website is a virtual proof that I'm awesome
+# rss-description: This website is a virtual proof that I'm awesome
 
 # --- General options --- #
 
 # Select which social network share links to show in posts
 share-links-active:
   twitter: true
-#   facebook: true
+  facebook: true
   linkedin: true
   vk: false
   google scholar: true
