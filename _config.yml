@@ -6,7 +6,7 @@
 # --- Required options --- #
 
 # Name of website
-title: Lindsey A. Barner
+title: Lindsey Barner
 
 # Your name to show in the footer
 author: Lindsey A. Barner
@@ -15,14 +15,13 @@ author: Lindsey A. Barner
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Published work: "https://washington-seattle.digication.com/jonliu/Peer-reviewed/published"
+  Publications: "https://washington-seattle.digication.com/jonliu/Peer-reviewed/published"
 
 # --- Logo --- #
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/avatar-icon.png"
+avatar: "/img/headshot.jpg"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
@@ -71,7 +70,7 @@ social-network-links:
 # Select which social network share links to show in posts
 share-links-active:
   twitter: true
-  facebook: true
+  facebook: false
   linkedin: true
   vk: false
   google scholar: true
