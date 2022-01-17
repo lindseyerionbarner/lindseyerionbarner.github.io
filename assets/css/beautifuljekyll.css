@@ -27,7 +27,7 @@ p {
   margin: 1.875rem 0;
 }
 h1,h2,h3,h4,h5,h6 {
-/*   font-family: 'Times New Roman', Times, serif; */
+  color: #404040;
   font-family: -apple-system, BlinkMacSystemFont;
   font-weight: 500;
   line-height: 1.1;
