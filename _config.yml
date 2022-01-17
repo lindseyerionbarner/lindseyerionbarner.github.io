@@ -14,7 +14,7 @@ author: Lindsey A. Barner
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Publications: "https://washington-seattle.digication.com/jonliu/Peer-reviewed/published"
+  Publications: "publications/publication_1.md"
   Curriculum Vitae: "docs/Barner_CV.pdf"
 
 # --- Logo --- #
