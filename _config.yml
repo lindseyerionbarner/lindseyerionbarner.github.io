@@ -39,14 +39,14 @@ round-avatar: true
 social-network-links:
   email: "lbarner@uw.edu"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
+  linkedin: lindsey-barner
+  ORCID: 0000-0002-9156-0024
+  google-scholar: https://scholar.google.com/citations?user=CgWX51oAAAAJ&hl=en&oi=ao
+  twitter: LindseyBarner
+  facebook: lindsey.barner
+  youtube: https://www.youtube.com/channel/UCLsWehHdBzqUdkYhoxdOKBQ
 #  medium: yourname
 #  reddit: yourname
-#  linkedin: daattali
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -59,8 +59,7 @@ social-network-links:
 #  telegram: yourname
 #  calendly: yourname
 #  mastodon: instance.url/@username
-#  ORCID: your ORCID ID
-#  google-scholar: your google scholar
+
 #  discord: invite/invite_code or users/userid 
 
 # If you want your website to generate an RSS feed, provide a description
@@ -72,13 +71,14 @@ rss-description: This website is a virtual proof that I'm awesome
 # Select which social network share links to show in posts
 share-links-active:
   twitter: true
-  facebook: true
+#   facebook: true
   linkedin: true
   vk: false
+  google scholar: true
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+# url-pretty: "MyWebsite.com"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
