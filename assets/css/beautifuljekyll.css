@@ -25,6 +25,8 @@ body {
 p {
   line-height: 1.5;
   margin: 1.875rem 0;
+  color: #404040;
+  font-family: -apple-system, BlinkMacSystemFont;
 }
 h1,h2,h3,h4,h5,h6 {
   color: #404040;
@@ -34,6 +36,8 @@ h1,h2,h3,h4,h5,h6 {
 }
 h1 {
   font-size: 1.50rem;
+  color: #404040;
+  font-family: -apple-system, BlinkMacSystemFont;
 }
 h2 {
   font-size: 1.20rem;
@@ -67,6 +71,7 @@ hr.small {
   border-width: 0.25rem;
   border-color: inherit;
   border-radius: 0.1875rem;
+  color: #404040;
 }
 
 /* fix in-page anchors to not be behind fixed header */
@@ -93,7 +98,8 @@ hr.small {
 }
 img::selection {
   color: #fff;
-  background: transparent;
+/*   background: transparent; */
+  background: rgba(255, 255, 255, 0.30);
 }
 img::-moz-selection {
   color: #fff;
