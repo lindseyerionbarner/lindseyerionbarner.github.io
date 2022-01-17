@@ -42,7 +42,6 @@ social-network-links:
   ORCID: 0000-0002-9156-0024
   google-scholar: citations?user=CgWX51oAAAAJ&hl=en&oi=ao
   twitter: LindseyBarner
-  facebook: lindsey.barner
   youtube: channel/UCLsWehHdBzqUdkYhoxdOKBQ
 #  medium: yourname
 #  reddit: yourname
@@ -70,7 +69,6 @@ social-network-links:
 # Select which social network share links to show in posts
 share-links-active:
   twitter: true
-  facebook: false
   linkedin: true
   vk: false
   google scholar: true
@@ -244,7 +242,7 @@ exclude:
   - LICENSE
   - README.md
   - screenshot.png
-  - docs/
+#   - docs/
 
 plugins:
   - jekyll-paginate
