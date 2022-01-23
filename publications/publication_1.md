@@ -3,7 +3,7 @@ layout: page
 title: Publications
 ---
 
-Journal Publications \n
+Journal Publications
 
 L.A. Barner, A.K. Glaser, H.Huang, L.D. True, and J.T.C. Liu, “Multi-resolution open-top light-sheet microscopy to enable efficient 3D pathology workflows,” Biomedical Optics Express 11,6605 (2020). \n
 <a href="https://www.osapublishing.org/DirectPDFAccess/0703889C-5343-47B6-815E8976F63AE809_441825/boe-11-11-6605.pdf?da=1&id=441825&seq=0&mobile=no">PDF</a>
