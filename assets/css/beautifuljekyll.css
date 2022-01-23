@@ -28,7 +28,8 @@ p {
 }
 h1,h2,h3,h4,h5,h6 {
   color: #404040;
-  font-family: -apple-system, BlinkMacSystemFont;
+  font-family: 'Arial', sans-serif; /* -apple-system, BlinkMacSystemFont; */
+  text-shadow: none; 
   font-weight: 500;
   line-height: 1.1;
 }
@@ -95,7 +96,6 @@ hr.small {
 img::selection {
   color: #fff;
   background: transparent;
-/*   background: rgba(255, 255, 255, 0.30); */
 }
 img::-moz-selection {
   color: #fff;
