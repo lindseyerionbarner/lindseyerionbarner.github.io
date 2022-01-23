@@ -28,10 +28,11 @@ p {
 }
 h1,h2,h3,h4,h5,h6 {
   color: #404040;
-  font-family: 'Arial', sans-serif; /* -apple-system, BlinkMacSystemFont; */
+  font-family: -apple-system, BlinkMacSystemFont;
   text-shadow: none; 
   font-weight: 500;
   line-height: 1.1;
+  font-size: 1.60rem;
 }
 h1 {
   font-size: 1.50rem;
@@ -673,7 +674,9 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
   font-size: 1.6875rem;
   line-height: 1.1;
   display: block;
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Arial', sans-serif;
+  text-shadow: none;
+  color: #404040;
   font-weight: 300;
   margin: 0.625rem 0 0;
 }
