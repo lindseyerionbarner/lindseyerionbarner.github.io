@@ -1,2 +1,2 @@
-Beautiful Jekyll
-> Theme by [Dean Attali](https://deanattali.com) &middot; [Demo](https://beautifuljekyll.com/)
+Repository for lindseybarner.github.io
+Theme powered by https://beautifuljekyll.com/
