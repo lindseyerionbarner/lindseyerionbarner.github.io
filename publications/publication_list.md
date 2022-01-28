@@ -9,6 +9,7 @@ layout: page
 **L.A. Barner**, A.K. Glaser, C. Mao, E.A. Susaki, J.C. Vaughan, S.M. Dintzis, and J.T.C. Liu, “Multi-resolution non-destructive 3D pathology of whole lymph nodes for breast cancer staging,” Journal of Biomedical Optics (in revision).
 
 
+
 <h1>Other publications</h1>
 D.M. Reddi, **L.A. Barner**, W. Burke, W.M. Grady, and J.T.C. Liu, “Non-destructive 3D pathology image atlas of Barrett esophagus with open-top light-sheet microscopy,” Arch. Path. Lab Med (in preparation). 
 
@@ -27,8 +28,10 @@ A. Kryemadhi, **L.A. Barner**, A. Grove, J. Mohler, A. Roth, “A LYSO crystal a
 A. Kryemadhi, **L.A. Barner**, A. Grove, J. Mohler, C. Sisson, A. Roth, “Performance of LYSO and CeBr3 crystal readout by silicon photomultiplier arrays as compact detectors for space based applications,” Journal of Instrumentation 12 (02), C02013 (2017). 
 
 
+
 <h1>Patents</h1>
 J.T.C. Liu, **L.A. Barner**, A.K. Glaser, Patent Application No. 17/356,135
+
 
 
 <h1>Presentations</h1>
