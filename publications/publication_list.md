@@ -2,18 +2,20 @@
 layout: page
 ---
 <h1>First-author publications</h1>
+**L.A. Barner**, A.K. Glaser, C. Mao, E.A. Susaki, J.C. Vaughan, S.M. Dintzis, and J.T.C. Liu, “Multi-resolution non-destructive 3D pathology of whole lymph nodes for breast cancer staging,” Journal of Biomedical Optics 27, 036501 (2022). [<a href= "https://www.spiedigitallibrary.org/journals/journal-of-biomedical-optics/volume-27/issue-3/036501/Multiresolution-nondestructive-3D-pathology-of-whole-lymph-nodes-for-breast/10.1117/1.JBO.27.3.036501.full?SSO=1">Link</a>] [<a href= "https://s3.amazonaws.com/files.digication.com/M325934b984ffa54500356d1225d9a562?AWSAccessKeyId=AKIAJBQAXZEE3MAI6INA&Expires=1668461287&Signature=OltI5dSAJ2spbtZ0DeT%2F%2BGz6kkg%3D&response-content-disposition=inline%3B%20filename%3D%22036501_1.pdf%22">PDF</a>]
+
 **L.A. Barner**, A.K. Glaser, H.Huang, L.D. True, and J.T.C. Liu, “Multi-resolution open-top light-sheet microscopy to enable efficient 3D pathology workflows,” Biomedical Optics Express 11,6605 (2020). [<a href="https://opg.optica.org/boe/fulltext.cfm?uri=boe-11-11-6605&id=441825">Link</a>][<a href= "https://opg.optica.org/boe/viewmedia.cfm?uri=boe-11-11-6605&seq=0">PDF</a>]
 
 **L.A. Barner**, A.K. Glaser, L.D. True, N.P. Reder, and J.T.C. Liu, ”Solid immersion meniscus lens (SIMlens) for open-top light-sheet microscopy,” Optics Letters 44,4451 (2019). [<a href= "https://opg.optica.org/ol/fulltext.cfm?uri=ol-44-18-4451&id=417358">Link</a>] [<a href= "https://opg.optica.org/ol/viewmedia.cfm?uri=ol-44-18-4451&seq=0">PDF</a>]
 
-**L.A. Barner**, A.K. Glaser, C. Mao, E.A. Susaki, J.C. Vaughan, S.M. Dintzis, and J.T.C. Liu, “Multi-resolution non-destructive 3D pathology of whole lymph nodes for breast cancer staging,” Journal of Biomedical Optics (in revision).
+
 
 
 
 <h1>Other publications</h1>
-D.M. Reddi, **L.A. Barner**, W. Burke, W.M. Grady, and J.T.C. Liu, “Non-destructive 3D pathology image atlas of Barrett esophagus with open-top light-sheet microscopy,” Arch. Path. Lab Med (in preparation). 
+D.M. Reddi, **L.A. Barner**, W. Burke, W.M. Grady, and J.T.C. Liu, “Non-destructive 3D pathology image atlas of Barrett esophagus with open-top light-sheet microscopy,” Arch. Path. Lab Med (in press). 
 
-A.K. Glaser, K.W. Bishop, **L.A. Barner**, R.B. Serafin, and J.T.C. Liu, “A hybrid open-top light-sheet microscope for multi-scale imaging of cleared tissues,” Nature Methods (in press). 
+A.K. Glaser, K.W. Bishop, **L.A. Barner**, R.B. Serafin, and J.T.C. Liu, “A hybrid open-top light-sheet microscope for multi-scale imaging of cleared tissues,” Nature Methods 19, 613 (2022). 
 
 W. Xie, N.P. Reder, C. Koyuncu, P. Leo, S. Hawley, H. Huang, C. Mao, N. Postupna, S. Kang, R. Serafin, G. Gao, Q. Han, K.W. Bishop, **L.A. Barner**, P. Fu, J.L. Wright, C.D. Keene, J.C. Vaughan, A. Janowczyk, A.K. Glaser, A. Madabhushi, and J.T.C. Liu, "Prostate cancer risk stratification via non-destructive 3D pathology with deep learning-assisted gland analysis," Cancer Research 82, 334 (2022).
 
