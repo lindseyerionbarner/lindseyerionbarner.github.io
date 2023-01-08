@@ -13,9 +13,9 @@ layout: page
 
 
 <h1>Other publications</h1>
-D.M. Reddi, **L.A. Barner**, W. Burke, W.M. Grady, and J.T.C. Liu, “Non-destructive 3D pathology image atlas of Barrett esophagus with open-top light-sheet microscopy,” Arch. Path. Lab Med (in press). 
+D.M. Reddi, **L.A. Barner**, W. Burke, W.M. Grady, and J.T.C. Liu, “Non-destructive 3D pathology image atlas of Barrett esophagus with open-top light-sheet microscopy,” Arch. Path. Lab Med (2023). [<a href= "https://meridian.allenpress.com/aplm/article/doi/10.5858/arpa.2022-0133-OA/489719/Nondestructive-3D-Pathology-Image-Atlas-of-Barrett">Link</a>] [<a href= "https://meridian.allenpress.com/aplm/article-pdf/doi/10.5858/arpa.2022-0133-OA/3174727/10.5858_arpa.2022-0133-oa.pdf">PDF</a>]
 
-A.K. Glaser, K.W. Bishop, **L.A. Barner**, R.B. Serafin, and J.T.C. Liu, “A hybrid open-top light-sheet microscope for multi-scale imaging of cleared tissues,” Nature Methods 19, 613 (2022). 
+A.K. Glaser, K.W. Bishop, **L.A. Barner**, R.B. Serafin, and J.T.C. Liu, “A hybrid open-top light-sheet microscope for multi-scale imaging of cleared tissues,” Nature Methods 19, 613 (2022). [<a href= "https://www.nature.com/articles/s41592-022-01468-5">Link</a>]
 
 W. Xie, N.P. Reder, C. Koyuncu, P. Leo, S. Hawley, H. Huang, C. Mao, N. Postupna, S. Kang, R. Serafin, G. Gao, Q. Han, K.W. Bishop, **L.A. Barner**, P. Fu, J.L. Wright, C.D. Keene, J.C. Vaughan, A. Janowczyk, A.K. Glaser, A. Madabhushi, and J.T.C. Liu, "Prostate cancer risk stratification via non-destructive 3D pathology with deep learning-assisted gland analysis," Cancer Research 82, 334 (2022).
 

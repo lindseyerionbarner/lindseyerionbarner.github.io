@@ -14,7 +14,7 @@ author: Lindsey A. Barner
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Home: ""
+  Home: "index.html"
   Publications: "publications/publication_list"
   Curriculum Vitae: "docs/Erion Barner_CV.pdf"
 
