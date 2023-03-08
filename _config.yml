@@ -6,23 +6,23 @@
 # --- Required options --- #
 
 # Name of website
-title: Lindsey Barner
+title: Lindsey Erion Barner
 
 # Your name to show in the footer
-author: Lindsey A. Barner
+author: Lindsey A. Erion Barner
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
   Home: "index.html"
   Publications: "publications/publication_list"
-  Curriculum Vitae: "docs/Erion Barner_CV.pdf"
+  Curriculum Vitae: "docs/Erion_Barner_CV.pdf"
 
 # --- Logo --- #
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/APL_headshot.jpg"
+avatar: "/img/headshot.jpg"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
